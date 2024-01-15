@@ -1,0 +1,14 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/7b/86/f2/7b86f2e84750e823535f38b1969a6583.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: aquamarine;
+}
+
+img{
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

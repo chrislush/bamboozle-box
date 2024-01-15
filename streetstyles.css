@@ -1,0 +1,14 @@
+body{
+    background-image: url(https://as1.ftcdn.net/v2/jpg/06/46/53/28/1000_F_646532874_0CM68Ar5mWX53qY4MAiX7JBvV9HwXPeT.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: aquamarine;
+}
+
+img{
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
